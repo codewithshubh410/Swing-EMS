@@ -31,6 +31,7 @@ public class EmployData implements ActionListener {
 	
 	public EmployData()
 	{
+		//This is temp comment to check gitupload
 		frame = new JFrame();
 		frame.setBounds(100, 100, 564, 406);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
